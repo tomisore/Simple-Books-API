@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "test": "mocha --timeout 5000 ./unit_tests/_tests.ts '",
+        "type": "module",
+        "start": "node app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/username/repository.git"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
